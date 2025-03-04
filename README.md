@@ -18,5 +18,8 @@ This application allows you to manage your tasks directly from the terminal.
 
 # Usage
 Run the application:
-# go run main.go
+```bash
+go run main.go
+```
+
 
