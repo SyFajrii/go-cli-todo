@@ -17,5 +17,6 @@ This application allows you to manage your tasks directly from the terminal.
 - Change directory
 
 # Usage
-go run main.go
+Run the application:
+# go run main.go
 
