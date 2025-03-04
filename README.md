@@ -13,8 +13,13 @@ This application allows you to manage your tasks directly from the terminal.
 
 # Installation
 - Clone this repo
-
+```bash
+git clone https://github.com/SyFajrii/go-cli-todo.git
+```
 - Change directory
+```bash
+cd go-cli-todo
+```
 
 # Usage
 Run the application:
